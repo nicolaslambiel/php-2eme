@@ -5,5 +5,5 @@
     $sexe = $_POST['sexe']; 
     $option = $_POST['option']; 
     
-    echo "$login $MotDePasse $age $sexe $otion"
+    echo "$login $MotDePasse $age $sexe $option"
 ?>
